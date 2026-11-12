@@ -11,7 +11,7 @@ permissions:
   packages: write
 
 env:
-  IMAGE_NAME: ghcr.io/ffvk/ec2-nestjs-app
+  IMAGE_NAME: ghcr.io/ffvk/nestjs-ec2-server
 
 jobs:
   build-and-deploy:
